@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <title>Putrickk</title>
+</head>
+<body>
+    <body style="background-color:rgb(200, 200, 200)">
+    <body style= "font-family:'Times New Roman'" >
+    <h1>To be the best fortnite player, you need to learn some from te best, so there is one guy I recommend: (bro was a NaVi comp. player at 15y.o, as well as won one eu FNCS about a h.y ago)</h1>
+
+    <p>Here are his SM links:</p>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4BcG2HWxRBlktydincsZCJoKCSjUecKhp5lnxhkh9g&s" alt="Tel" width="300" height="300">
+    
+    <img src="https://i.ytimg.com/vi/6YaKZrR1Sg4/hqdefault.jpg" alt="Irl" width="300" height="300">
+
+    <p>- <a href="https://www.twitch.tv/putrick_">twitch.tv/putrick_</a> his twitch</p>
+    <p>- <a href="https://twitter.com/Putrickk">twitter/putrick</a> his X :0</p>
+    <p>- <a href="https://t.me/s/putrickx?before=618">telegram/putrick</a> his telegram ch.</p>
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=YwGCVRpYs7U" frameborder="0" allowfullscreen></iframe>
+
+    <p>Daniil "Putrick" Abdrakhmanov (born October 12, 2004) is a Russian Fortnite player who last played for Cyber Legacy.</p>
+</body>
+</html>
